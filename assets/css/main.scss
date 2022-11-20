@@ -3,11 +3,11 @@
 
 body {
   font-family: $ff;
-  background: url("../images/bg-pattern-top.svg"),
-    url("../images/bg-pattern-bottom.svg");
-  background-position: bottom 50vh right 50vw, top 50vh left 50vw;
-  background-repeat: no-repeat;
   background-color: $primary-clr-500;
+  background-image: url("../images/bg-pattern-top.svg"),
+    url("../images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat;
+  background-position: bottom 50vh right 50vw, top 50vh left 50vw;
 }
 
 main {
