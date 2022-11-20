@@ -97,8 +97,8 @@ select {
 
 body {
   font-family: "Kumbh Sans", sans-serif;
-  background: url("../assets/images/bg-pattern-top.svg"),
-    url("../assets/images/bg-pattern-bottom.svg");
+  background: url("../images/bg-pattern-top.svg"),
+    url("../images/bg-pattern-bottom.svg");
   background-position: bottom 50vh right 50vw, top 50vh left 50vw;
   background-repeat: no-repeat;
   background-color: hsl(185deg, 75%, 39%);
