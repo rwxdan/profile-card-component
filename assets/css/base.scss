@@ -1,0 +1,48 @@
+//* COLORS
+$primary-clr-500: hsl(185, 75%, 39%);
+$primary-clr-700: hsl(227, 10%, 46%);
+$primary-clr-800: hsl(229, 23%, 23%);
+$neutral-clr-400: hsl(0, 0%, 59%);
+
+//* UTILITIES
+// fonts
+$ff: "Kumbh Sans", sans-serif;
+
+.fs-l {
+  font-size: 1.125rem;
+}
+
+.fs-m {
+  font-size: 0.9375rem;
+}
+
+.fs-xs {
+  font-size: 0.625rem;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fc-800 {
+  color: $primary-clr-800;
+}
+
+.fc-700 {
+  color: $primary-clr-700;
+}
+
+.ls-125 {
+  letter-spacing: 0.125rem;
+}
+
+// border radius
+
+.br-50 {
+  border-radius: 50%;
+}
+
+.br-1 {
+  border-radius: 1rem;
+}
