@@ -134,7 +134,7 @@ main {
 .stats {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  padding: 2rem 2rem;
+  padding: 1.25rem 2rem;
   border-top: 0.125rem solid hsla(0deg, 0%, 59%, 0.1);
 }
 
